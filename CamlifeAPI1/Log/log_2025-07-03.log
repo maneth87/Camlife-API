@@ -1,0 +1,178 @@
+Error Time: 00:01:53
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_application => SaveApplication(bl_micro_application APPLICATION)]
+Error Line: 79
+Error Message: Procedure or function 'SP_CT_MICRO_APPLICATION_INSERT' expects parameter '@POLICYHOLDER_NAME', which was not supplied.
+==========================================================
+Error Time: 00:25:39
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_application_insurance=>SaveApplicationInsurance(bl_micro_application_insurance APP_INSURANCE)]
+Error Line: 79
+Error Message: Procedure or function 'SP_CT_MICRO_APPLICATION_INSURANCE_INSERT' expects parameter '@TERM_OF_COVER_TYPE', which was not supplied.
+==========================================================
+Error Time: 00:30:37
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_application_insurance_benificiary=>SaveApplicationBeneficiary(bl_micro_application_beneficiary APP_BENEFICIARY)]
+Error Line: 79
+Error Message: Procedure or function 'SP_CT_MICRO_APPLICATION_BENEFICIARY_INSERT' expects parameter '@DOB', which was not supplied.
+==========================================================
+Error Time: 00:38:37
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_policy_detail=>SavePolicyDetail(bl_micro_policy_detail POLICY_DETAIL)]
+Error Line: 79
+Error Message: Procedure or function 'SP_CT_MICRO_POLICY_DETAIL_INSERT' expects parameter '@COVER_TYPE', which was not supplied.
+==========================================================
+Error Time: 00:43:34
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_policy_benificiary=>SaveBeneficiary(bl_micro_policy_beneficiary BENEFICIARY)]
+Error Line: 79
+Error Message: Procedure or function 'SP_CT_MICRO_POLICY_BENEFICIARY_INSERT' expects parameter '@DOB', which was not supplied.
+==========================================================
+Error Time: 01:01:07
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_policy_benificiary=>SaveBeneficiary(bl_micro_policy_beneficiary BENEFICIARY)]
+Error Line: 79
+Error Message: Procedure or function 'SP_CT_MICRO_POLICY_BENEFICIARY_INSERT' expects parameter '@ID_NO', which was not supplied.
+==========================================================
+Error Time: 01:03:54
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_policy_benificiary=>SaveBeneficiary(bl_micro_policy_beneficiary BENEFICIARY)]
+Error Line: 0
+Error Message: Procedure or function 'SP_CT_MICRO_POLICY_BENEFICIARY_INSERT' expects parameter '@ID_NO', which was not supplied.
+==========================================================
+Error Time: 10:21:08
+UserName: 
+Class Name: PolicyController
+Functioin Name: IssueMultiPolicy(RequestParam.IssueMultiPolicy obj)
+Error Line: 679
+Error Message: Value cannot be null.
+Parameter name: value
+==========================================================
+Error Time: 10:45:01
+UserName: 
+Class Name: PolicyController
+Functioin Name: IssueMultiPolicy(RequestParam.IssueMultiPolicy obj)
+Error Line: 0
+Error Message: Value cannot be null.
+Parameter name: value
+==========================================================
+Error Time: 10:50:01
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_policy_benificiary=>SaveBeneficiary(bl_micro_policy_beneficiary BENEFICIARY)]
+Error Line: 0
+Error Message: Procedure or function 'SP_CT_MICRO_POLICY_BENEFICIARY_INSERT' expects parameter '@ID_NO', which was not supplied.
+==========================================================
+Error Time: 10:54:37
+UserName: 
+Class Name: PolicyController
+Functioin Name: IssueMultiPolicy(RequestParam.IssueMultiPolicy obj)
+Error Line: 0
+Error Message: Object reference not set to an instance of an object.
+==========================================================
+Error Time: 11:17:19
+UserName: 
+Class Name: PolicyController
+Functioin Name: IssueMultiPolicy(RequestParam.IssueMultiPolicy obj)
+Error Line: 0
+Error Message: Object reference not set to an instance of an object.
+==========================================================
+12:20:42   [maneth.som]   Error Function [IssueMultiPolicy(RequestParam.IssueMultiPolicy obj)] in class [PolicyController], detail:Approver Not Found.
+
+12:41:18   [maneth.som]   Error Function [IssueMultiPolicy(RequestParam.IssueMultiPolicy obj)] in class [PolicyController], detail:Approver Not Found.
+
+Error Time: 12:46:27
+UserName: 
+Class Name: CertificateController
+Functioin Name: GetApplicationForms(RequestApplicationForms req)
+Error Line: 136
+Error Message: One or more errors occurred.
+==========================================================
+Error Time: 15:25:27
+UserName: 
+Class Name: DocumentController
+Functioin Name:  UploadMultiFiles(string userName, string applicationNumber)
+Error Line: 0
+Error Message: Object reference not set to an instance of an object.
+==========================================================
+Error Time: 15:40:15
+UserName: 
+Class Name: DocumentController
+Functioin Name:  UploadMultiFiles(string userName, string applicationNumber)
+Error Line: 781
+Error Message: PdfReader not opened with owner password
+==========================================================
+Error Time: 15:58:17
+UserName: 
+Class Name: DocumentController
+Functioin Name:  UploadMultiFiles(string userName, string applicationNumber)
+Error Line: 781
+Error Message: PdfReader not opened with owner password
+==========================================================
+Error Time: 16:41:36
+UserName: 
+Class Name: CertificateController
+Functioin Name: GetApplicationForm(string applicationId, string applicationType)
+Error Line: 101
+Error Message: One or more errors occurred.
+==========================================================
+Error Time: 19:33:44
+UserName: 
+Class Name: PolicyController
+Functioin Name: IssueMultiPolicy(RequestParam.IssueMultiPolicy obj)
+Error Line: 590
+Error Message: Object reference not set to an instance of an object.
+==========================================================
+Error Time: 19:34:23
+UserName: 
+Class Name: PolicyController
+Functioin Name: IssueMultiPolicy(RequestParam.IssueMultiPolicy obj)
+Error Line: 590
+Error Message: Object reference not set to an instance of an object.
+==========================================================
+Error Time: 19:37:05
+UserName: 
+Class Name: PolicyController
+Functioin Name: IssueMultiPolicy(RequestParam.IssueMultiPolicy obj)
+Error Line: 590
+Error Message: Object reference not set to an instance of an object.
+==========================================================
+Error Time: 19:56:36
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_policy=>SavePolicy(bl_micro_policy POLICY)]
+Error Line: 79
+Error Message: Violation of PRIMARY KEY constraint 'PK_CT_MICRO_POLICY'. Cannot insert duplicate key in object 'dbo.CT_MICRO_POLICY'. The duplicate key value is (CERRB25001579).
+The statement has been terminated.
+==========================================================
+Error Time: 20:04:34
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_policy=>SavePolicy(bl_micro_policy POLICY)]
+Error Line: 79
+Error Message: Violation of PRIMARY KEY constraint 'PK_CT_MICRO_POLICY'. Cannot insert duplicate key in object 'dbo.CT_MICRO_POLICY'. The duplicate key value is (CERRB25001579).
+The statement has been terminated.
+==========================================================
+Error Time: 20:08:29
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_policy=>SavePolicy(bl_micro_policy POLICY)]
+Error Line: 79
+Error Message: Violation of PRIMARY KEY constraint 'PK_CT_MICRO_POLICY'. Cannot insert duplicate key in object 'dbo.CT_MICRO_POLICY'. The duplicate key value is (CERRB25001579).
+The statement has been terminated.
+==========================================================
+Error Time: 20:08:45
+UserName: 
+Class Name: DB
+Functioin Name: Execute, execute by [da_micro_policy=>SavePolicy(bl_micro_policy POLICY)]
+Error Line: 79
+Error Message: Violation of PRIMARY KEY constraint 'PK_CT_MICRO_POLICY'. Cannot insert duplicate key in object 'dbo.CT_MICRO_POLICY'. The duplicate key value is (CERRB25001579).
+The statement has been terminated.
+==========================================================

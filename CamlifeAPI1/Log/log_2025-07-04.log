@@ -1,0 +1,42 @@
+Error Time: 12:37:40
+UserName: 
+Class Name: CertificateController
+Functioin Name: GetCertificates(RequestCertificates req)
+Error Line: 82
+Error Message: Object reference not set to an instance of an object.
+==========================================================
+Error Time: 12:39:54
+UserName: 
+Class Name: CertificateController
+Functioin Name: GetCertificates(RequestCertificates req)
+Error Line: 77
+Error Message: One or more errors occurred.
+==========================================================
+Error Time: 12:41:57
+UserName: 
+Class Name: CertificateController
+Functioin Name: GetCertificates(RequestCertificates req)
+Error Line: 82
+Error Message: Object reference not set to an instance of an object.
+==========================================================
+Error Time: 12:42:13
+UserName: 
+Class Name: CertificateController
+Functioin Name: GetCertificates(RequestCertificates req)
+Error Line: 82
+Error Message: Object reference not set to an instance of an object.
+==========================================================
+Error Time: 12:48:47
+UserName: 
+Class Name: CertificateController
+Functioin Name: GetCertificates(RequestCertificates req)
+Error Line: 77
+Error Message: One or more errors occurred.
+==========================================================
+Error Time: 12:56:59
+UserName: 
+Class Name: CertificateController
+Functioin Name: GetCertificates(RequestCertificates req)
+Error Line: 77
+Error Message: One or more errors occurred.
+==========================================================

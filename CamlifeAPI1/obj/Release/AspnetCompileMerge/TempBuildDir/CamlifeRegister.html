@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function myfunction() {
+            $('#btnregister').click(function () {
+                $.ajax({
+                    url: '/api/account/register',
+                    method: 'POST',
+                    data: {
+                        email: $('#txtusername').val(),
+                        password: $('#txtpassword').val(),
+                        confirmPassword: $('#txtconfirmpassword').val()
+                    },
+                    success: function () {
+                        alert("success");
+                    },
+                    error: function (res) {
+                        alert(res.responseText);
+                    }
+                });
+            });
+
+            /*reset password*/
+            $('#btnResetPassword').click(function () {
+                $.ajax({
+                    url: '/api/account/ResetPassword',
+                    method: 'POST',
+                    data: {
+                        UserName: $('#txtusername').val(),
+                        Token:'sR4iMiyxI32nl8rQFfIZzmPtkn6MXuKcMktGBk2HSJ8JgVnbWoEvvy2sLOKKlWhgh2c_ECDDuC5MwbLqlQfQSDCnL6Psat6oq6FW6JsLR-m5N9cTwwxBpfAiFjcIoYFTQ30AYokIVmlGTw-qVLSQD6pzCAa6xdEM47p8bdejL9heAg8Ri8mIN1sFOFnf_K-SiPQLCmxC0btKKV03UwoP3HHfblyeo-z2HvigqQFgehA1RcGwVFOt6C_fMuiLu_9MLE6D2i4Mjjt54PNOeNO-U4lgmHRFXH1vqdtwjvx6y7MbtNsdYGvMoXjwq2JUUU3siElsKG6xI8tO9VERwjFzvoebTg05x7gNrcI46XfHPmOgEAQYec0bka9xYAztdtiUT70_aeWhiFwMIewEUagvYpPIuvJp5lIHEDKiubAV2ChLHEPxisNhd1TadCB7kpvU8XQWCFkUme4Kg1NrKOEnlRUYN2GilYVudEChpn5Wou-I3tatqr78G1-XnXYNuclA',
+                        newPassword: $('#txtpassword').val(),
+                        confirmPassword: $('#txtconfirmpassword').val()
+                    },
+                    success: function () {
+                        alert("success");
+                    },
+                    error: function (res) {
+                        alert(res.responseText);
+                    }
+                });
+            });
+        });
+
+    </script>
+</head>
+<body>
+    <table>
+        <tr>
+            <td>UserName</td>
+            <td>
+                <input type="text" id="txtusername" />
+            </td>
+            <td>Password</td>
+            <td>
+                <input type="text" id="txtpassword" />
+            </td>
+            <td>Confirm Password</td>
+            <td>
+                <input type="text" id="txtconfirmpassword" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2">
+                <input type="button" id="btnregister" value="Register" />
+            </td>
+            <td colspan="2">
+                <input type="button" id="btnResetPassword" value="Reset Password" />
+            </td>
+        </tr>
+    </table>
+   
+</body>
+</html>

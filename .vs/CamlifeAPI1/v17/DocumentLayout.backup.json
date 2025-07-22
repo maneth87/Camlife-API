@@ -1,0 +1,488 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\application\\bl_application_for_issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\bl_application_for_issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\applicationformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\applicationformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|d:\\system\\raksmey\\2_api\\8-api-upload-doc\\camlifeapi1\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\bl_micro_policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\bl_micro_policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\da_micro_policy_prefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\da_micro_policy_prefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\product\\da_micro_product_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\product\\da_micro_product_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\product\\bl_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\product\\bl_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\application\\bl_micro_application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\bl_micro_application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\application\\bl_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\bl_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\application\\da_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\da_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\documents\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\documents\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\microproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\microproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\channel\\da_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\channel\\da_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\da_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\da_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\saleagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\saleagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\bl_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\bl_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\da_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\da_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\bl_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\bl_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\master\\da_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\master\\da_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\master\\bl_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\master\\bl_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\saleagent\\da_sale_agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\saleagent\\da_sale_agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\product\\da_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\product\\da_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\inquiries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\inquiries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BeneficiaryResponse.cs",
+              "DocumentMoniker": "D:\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs",
+              "ToolTip": "D:\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T10:59:17.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "da_micro_application_beneficiary.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:00:02.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Web.config",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Web.config",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Web.config",
+              "RelativeToolTip": "CamlifeAPI1\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-03T05:41:45.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bl_micro_application_beneficiary.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAABCwAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:49:49.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Calculation.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Calculation.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Calculation.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Calculation.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Calculation.cs",
+              "ViewState": "AgIAADEEAAAAAAAAAAAiwD0EAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:50:17.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationFormController.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
+              "ViewState": "AgIAACcDAAAAAAAAAAD4vy0DAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:53:22.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\PolicyController.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Controllers\\PolicyController.cs",
+              "ViewState": "AgIAAEECAAAAAAAAAAAiwFwCAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:41:07.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bl_application_for_issue.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAewNMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:26:47.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "da_micro_policy_prefix.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:34:05.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bl_micro_policy.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T11:06:48.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "bl_micro_application.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAuwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:24:33.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "da_micro_product_rate.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T09:22:09.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bl_micro_product_config.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs*",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAqwGcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:52:26.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Log.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Log.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Log.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Log.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Log.cs",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAUwLgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:56:36.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "documents.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Documents\\documents.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Documents\\documents.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Documents\\documents.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Documents\\documents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgCAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:19:00.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "da_micro_policy_beneficiary.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAwBoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:44:17.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DocumentController.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\DocumentController.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\DocumentController.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\DocumentController.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Controllers\\DocumentController.cs",
+              "ViewState": "AgIAAPwCAAAAAAAAAAAUwAkDAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:08:41.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MicroProductController.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\MicroProductController.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\MicroProductController.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\MicroProductController.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Controllers\\MicroProductController.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAADwv3cAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:27:08.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaleAgentController.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\SaleAgentController.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\SaleAgentController.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\SaleAgentController.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Controllers\\SaleAgentController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwDoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:56:47.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "da_channel.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Channel\\da_channel.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Channel\\da_channel.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Channel\\da_channel.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Channel\\da_channel.cs",
+              "ViewState": "AgIAAO8BAAAAAAAAAAAUwPwBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:32:38.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "bl_micro_policy_beneficiary.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBAwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:51:26.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bl_micro_policy_detail.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAywFoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:39:27.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "da_micro_policy_detail.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA1wDMAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:41:23.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAiwBcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T09:06:29.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "da_master.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Master\\da_master.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Master\\da_master.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Master\\da_master.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Master\\da_master.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAA1wDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:44:01.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "bl_master.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Master\\bl_master.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Master\\bl_master.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Master\\bl_master.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Master\\bl_master.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:44:37.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "da_sale_agent.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
+              "ViewState": "AgIAAIUBAAAAAAAAAAAewJ4BAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T08:00:06.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "da_micro_product_config.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
+              "ViewState": "AgIAAC0BAAAAAAAAAAAswDABAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:30:42.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Inquiries.cs",
+              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Inquiries.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Inquiries.cs",
+              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Inquiries.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Inquiries.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAA/wCwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T16:02:21.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

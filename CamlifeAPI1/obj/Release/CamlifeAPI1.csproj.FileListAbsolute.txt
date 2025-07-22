@@ -1,0 +1,1184 @@
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.exe
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Collections.Immutable.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Reflection.Metadata.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.exe
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe.config
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.dll.config
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Antlr3.Runtime.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\BouncyCastle.Crypto.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.SqlServer.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Web.Infrastructure.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXml4Net.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXmlFormats.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Owin.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\RestSharp.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Net.Http.Formatting.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Helpers.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Owin.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.WebHost.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Mvc.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Optimization.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Razor.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Deployment.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Razor.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\WebGrease.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\BouncyCastle.Crypto.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXml4Net.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXmlFormats.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\RestSharp.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Net.Http.Formatting.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Helpers.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.WebHost.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Mvc.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Optimization.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Razor.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Deployment.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Razor.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Antlr3.Runtime.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.SqlServer.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Owin.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.AssemblyReference.cache
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.CoreCompileInputs.cache
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.CopyComplete
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\2-CamlifeAPI-multi policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.exe
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.exe.config
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.rsp
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csi.exe
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csi.exe.config
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csi.rsp
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Buffers.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Collections.Immutable.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Memory.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Numerics.Vectors.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Reflection.Metadata.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.exe
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.exe.config
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.rsp
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe.config
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.dll.config
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Antlr3.Runtime.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\BouncyCastle.Crypto.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.SqlServer.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\itextsharp.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Web.Infrastructure.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.Bson.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXml4Net.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXmlFormats.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Owin.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\RestSharp.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Buffers.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Memory.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Net.Http.Formatting.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Numerics.Vectors.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Threading.Tasks.Extensions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Cors.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Helpers.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Cors.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Owin.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.WebHost.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Mvc.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Optimization.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Razor.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Deployment.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Razor.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\WebGrease.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\itextsharp.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.Bson.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.Bson.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXml4Net.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXmlFormats.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\RestSharp.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Memory.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Net.Http.Formatting.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Helpers.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Cors.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Owin.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.WebHost.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Mvc.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Razor.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Deployment.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Razor.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Optimization.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Antlr3.Runtime.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.SqlServer.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.AssemblyReference.cache
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.CoreCompileInputs.cache
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.CopyComplete
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.DiaSymReader.Native.x86.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.DiaSymReader.Native.amd64.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cors.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Localization.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyModel.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.ObjectPool.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Options.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Primitives.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.WebEncoders.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Net.Http.Headers.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Win32.Registry.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Collections.Immutable.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.ComponentModel.Annotations.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.IO.Pipelines.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Reflection.Metadata.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Security.AccessControl.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Security.Cryptography.Xml.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Security.Permissions.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Security.Principal.Windows.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Text.Encoding.CodePages.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Text.Encodings.Web.dll
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cors.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Localization.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.pdb
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.ObjectPool.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Options.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Primitives.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.WebEncoders.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Net.Http.Headers.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Collections.Immutable.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.IO.Pipelines.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Reflection.Metadata.xml
+D:\D\MANETH\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Text.Encodings.Web.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.DiaSymReader.Native.x86.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.exe
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.exe.config
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.rsp
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csi.exe
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csi.exe.config
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\csi.rsp
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Buffers.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Collections.Immutable.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Memory.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Numerics.Vectors.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Reflection.Metadata.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.exe
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.exe.config
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.rsp
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe.config
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.dll.config
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Antlr3.Runtime.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\BouncyCastle.Crypto.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.SqlServer.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\itextsharp.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cors.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Localization.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyModel.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.ObjectPool.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Options.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Primitives.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.WebEncoders.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Net.Http.Headers.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Web.Infrastructure.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Win32.Registry.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.Bson.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXml4Net.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXmlFormats.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Owin.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\RestSharp.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Buffers.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Collections.Immutable.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.ComponentModel.Annotations.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.IO.Pipelines.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Memory.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Net.Http.Formatting.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Numerics.Vectors.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Reflection.Metadata.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Security.AccessControl.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Security.Cryptography.Xml.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Security.Permissions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Security.Principal.Windows.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Text.Encoding.CodePages.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Text.Encodings.Web.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Threading.Tasks.Extensions.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Cors.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Helpers.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Cors.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Owin.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.WebHost.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Mvc.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Optimization.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Razor.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Deployment.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Razor.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\WebGrease.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\itextsharp.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cors.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Localization.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.ObjectPool.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Options.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Primitives.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.WebEncoders.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Net.Http.Headers.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.Bson.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.Bson.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXml4Net.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXmlFormats.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\RestSharp.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Collections.Immutable.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.IO.Pipelines.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Memory.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Net.Http.Formatting.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Reflection.Metadata.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Text.Encodings.Web.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Helpers.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Cors.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Owin.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.WebHost.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Mvc.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Razor.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Deployment.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Razor.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\System.Web.Optimization.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Antlr3.Runtime.pdb
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.SqlServer.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.AssemblyReference.cache
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.CoreCompileInputs.cache
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeA.7CEF411F.Up2Date
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.dll
+D:\SYSTEM\CamlifeAPI\4-CamlifeAPI-add new funtions\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.DiaSymReader.Native.x86.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.exe
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.exe.config
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\csc.rsp
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\csi.exe
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\csi.exe.config
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\csi.rsp
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Buffers.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Collections.Immutable.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Memory.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Numerics.Vectors.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Reflection.Metadata.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.exe
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.exe.config
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\vbc.rsp
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe.config
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.dll.config
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\CamlifeAPI1.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Antlr3.Runtime.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\BouncyCastle.Crypto.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.SqlServer.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\itextsharp.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cors.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Localization.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyModel.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.ObjectPool.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Options.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Primitives.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.WebEncoders.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Net.Http.Headers.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Web.Infrastructure.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Win32.Registry.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.Bson.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXml4Net.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXmlFormats.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Owin.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\RestSharp.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Buffers.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Collections.Immutable.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.ComponentModel.Annotations.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.IO.Pipelines.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Memory.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Net.Http.Formatting.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Numerics.Vectors.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Reflection.Metadata.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Security.AccessControl.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Security.Cryptography.Xml.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Security.Permissions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Security.Principal.Windows.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Text.Encoding.CodePages.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Text.Encodings.Web.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Threading.Tasks.Extensions.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Cors.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Helpers.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Cors.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Owin.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.WebHost.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Mvc.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Optimization.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Razor.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Deployment.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Razor.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\WebGrease.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\itextsharp.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cors.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Localization.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.ObjectPool.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Options.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.Primitives.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Extensions.WebEncoders.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Net.Http.Headers.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.Bson.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Newtonsoft.Json.Bson.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OOXML.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXml4Net.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\NPOI.OpenXmlFormats.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\RestSharp.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Collections.Immutable.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.IO.Pipelines.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Memory.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Net.Http.Formatting.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Reflection.Metadata.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Text.Encodings.Web.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Helpers.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Cors.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.Owin.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Http.WebHost.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Mvc.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Razor.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Deployment.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.WebPages.Razor.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\System.Web.Optimization.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Antlr3.Runtime.pdb
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\EntityFramework.SqlServer.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.AssemblyReference.cache
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.CoreCompileInputs.cache
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeA.7CEF411F.Up2Date
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.dll
+D:\SYSTEM\CamlifeAPI\6-CamlifeAPI-multi-policy\CamlifeAPI\CamlifeAPI1\obj\Release\CamlifeAPI1.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.DiaSymReader.Native.x86.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\csc.exe
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\csc.exe.config
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\csc.rsp
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\csi.exe
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\csi.exe.config
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\csi.rsp
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\System.Buffers.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\System.Collections.Immutable.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\System.Memory.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\System.Numerics.Vectors.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\System.Reflection.Metadata.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\vbc.exe
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\vbc.exe.config
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\vbc.rsp
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\roslyn\VBCSCompiler.exe.config
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\CamlifeAPI1.dll.config
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\CamlifeAPI1.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\CamlifeAPI1.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Antlr3.Runtime.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\BouncyCastle.Crypto.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\EntityFramework.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\EntityFramework.SqlServer.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\itextsharp.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Antiforgery.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Core.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Cors.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Extensions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Features.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.JsonPatch.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Localization.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Core.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Language.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.WebUtilities.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeAnalysis.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeAnalysis.Razor.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.DotNet.PlatformAbstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.DependencyModel.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Composite.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Localization.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Localization.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.ObjectPool.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Options.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Primitives.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.WebEncoders.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Net.Http.Headers.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Web.Infrastructure.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Win32.Registry.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Newtonsoft.Json.Bson.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Newtonsoft.Json.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.OOXML.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.OpenXml4Net.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.OpenXmlFormats.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Owin.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\RestSharp.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Buffers.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Collections.Immutable.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.ComponentModel.Annotations.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Diagnostics.DiagnosticSource.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.IO.Pipelines.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Memory.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Net.Http.Formatting.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Numerics.Vectors.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Reflection.Metadata.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Security.AccessControl.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Security.Cryptography.Xml.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Security.Permissions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Security.Principal.Windows.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Text.Encoding.CodePages.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Text.Encodings.Web.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Threading.Tasks.Extensions.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Cors.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Helpers.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Http.Cors.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Http.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Http.Owin.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Http.WebHost.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Mvc.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Optimization.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Razor.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.WebPages.Deployment.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.WebPages.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.WebPages.Razor.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\WebApiContrib.Formatting.Jsonp.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\WebGrease.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\ICSharpCode.SharpZipLib.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\itextsharp.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Antiforgery.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Authentication.Core.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Cors.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Html.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Extensions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Http.Features.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.JsonPatch.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Localization.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ApiExplorer.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Core.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Cors.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.DataAnnotations.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Formatters.Json.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Localization.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.Razor.Extensions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.RazorPages.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.TagHelpers.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Mvc.ViewFeatures.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Language.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Razor.Runtime.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNetCore.WebUtilities.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeAnalysis.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeAnalysis.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeAnalysis.CSharp.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeAnalysis.Razor.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.FileProviders.Composite.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Localization.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Localization.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.ObjectPool.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Options.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.Primitives.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Extensions.WebEncoders.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Net.Http.Headers.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Newtonsoft.Json.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Newtonsoft.Json.Bson.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Newtonsoft.Json.Bson.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.OOXML.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.OOXML.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.OpenXml4Net.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\NPOI.OpenXmlFormats.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\RestSharp.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Collections.Immutable.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Diagnostics.DiagnosticSource.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.IO.Pipelines.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Memory.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Net.Http.Formatting.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Reflection.Metadata.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Text.Encodings.Web.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Helpers.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Http.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Http.Cors.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Http.Owin.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Http.WebHost.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Mvc.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Razor.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.WebPages.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.WebPages.Deployment.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.WebPages.Razor.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\System.Web.Optimization.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\WebApiContrib.Formatting.Jsonp.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Antlr3.Runtime.pdb
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\EntityFramework.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\EntityFramework.SqlServer.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Core.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.Facebook.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.Cookies.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.OAuth.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.Google.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.Twitter.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.AssemblyReference.cache
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\obj\Release\CamlifeAPI1.csproj.CoreCompileInputs.cache
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\obj\Release\CamlifeA.7CEF411F.Up2Date
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\obj\Release\CamlifeAPI1.dll
+D:\SYSTEM\RAKSMEY\2_API\8-API-upload-doc\CamlifeAPI1\obj\Release\CamlifeAPI1.pdb

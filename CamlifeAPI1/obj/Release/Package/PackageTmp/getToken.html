@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function myfunction() {
+            $('#btnToken').click(function () {
+                var body = {
+                    grant_type: 'password',
+                    username: 'hattha@bank.com',
+                    password: 'HathaBank@2022'
+                };
+
+                $.ajax({
+                    url: "http://localhost:53442/Token",
+                    method: "POST",
+                    contentType: "application/json; charset=utf-8",
+
+                    data: {
+                        userName: 'hattha@bank.com', password: 'HathaBank@2022', grant_type: 'password'
+                    },
+                    success: function (response) {
+                        alert(JSON.stringify(response.access_token));
+                    },
+                    error: function (res) {
+                        alert(res.error);
+                    }
+                });
+
+
+                //var regCredentials = {
+                //    "username": creds.username,
+                //    "password": creds.password,
+                //    "fname": creds.fname,
+                //    "lname": creds.lname
+                //};
+
+                //request = $.ajax({
+                //    url: "http://192.168.1.9:156/token",
+                //    type: "POST",
+                //    crossDomain: true,
+                //    data: regCredentials,
+                //    dataType: "text",
+                //    success: function (data) {
+                //        console.log("Response: " + data);
+                //        postResponse(data);
+                //    }
+                //});
+
+            });
+        });
+
+    </script>
+</head>
+<body>
+    <input type="button" id="btnToken" value="GetToken" />
+</body>
+</html>
