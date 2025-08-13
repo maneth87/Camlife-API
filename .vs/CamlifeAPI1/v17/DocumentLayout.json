@@ -1,120 +1,117 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\",
+  "WorkspaceRootPath": "D:\\02_Github\\Camlife-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\application\\bl_application_for_issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\bl_application_for_issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\applicationformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\controllers\\applicationformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\applicationformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|d:\\02_github\\camlife-api\\camlifeapi1\\class\\application\\bl_application_for_issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\bl_application_for_issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|d:\\system\\raksmey\\2_api\\8-api-upload-doc\\camlifeapi1\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\bl_micro_policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\policy\\bl_micro_policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\bl_micro_policy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\da_micro_policy_prefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\policy\\da_micro_policy_prefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\da_micro_policy_prefix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\product\\da_micro_product_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\product\\da_micro_product_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\product\\da_micro_product_rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\product\\bl_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\product\\bl_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\product\\bl_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\application\\bl_micro_application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\application\\bl_micro_application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\bl_micro_application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\application\\bl_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\application\\bl_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\bl_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\application\\da_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\application\\da_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\da_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\documents\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\documents\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\documents\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\microproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\controllers\\microproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\microproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\documentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\channel\\da_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\channel\\da_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\channel\\da_channel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\da_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\policy\\da_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\da_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\saleagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\controllers\\saleagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\saleagentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\bl_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\policy\\bl_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\bl_micro_policy_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\da_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\policy\\da_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\da_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\policy\\bl_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\policy\\bl_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\policy\\bl_micro_policy_detail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\master\\da_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\master\\da_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\master\\da_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\master\\bl_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\master\\bl_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\master\\bl_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\saleagent\\da_sale_agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\saleagent\\da_sale_agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\saleagent\\da_sale_agent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\product\\da_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\product\\da_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\product\\da_micro_product_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\camlifeapi1\\class\\inquiries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\inquiries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\inquiries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -125,40 +122,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BeneficiaryResponse.cs",
-              "DocumentMoniker": "D:\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs",
-              "ToolTip": "D:\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\recover\\CamlifeAPI1\\Class\\Application\\BeneficiaryResponse.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T10:59:17.225Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "da_micro_application_beneficiary.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
-              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
-              "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T13:00:02.816Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Web.config",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Web.config",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Web.config",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Web.config",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Web.config",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Web.config",
               "RelativeToolTip": "CamlifeAPI1\\Web.config",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -167,11 +143,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "bl_micro_application_beneficiary.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAABCwAgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -179,11 +155,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "Calculation.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Calculation.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Calculation.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Calculation.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Calculation.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Calculation.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Calculation.cs",
               "ViewState": "AgIAADEEAAAAAAAAAAAiwD0EAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -192,36 +168,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ApplicationFormController.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
-              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
-              "RelativeToolTip": "CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
-              "ViewState": "AgIAACcDAAAAAAAAAAD4vy0DAABnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-13T08:53:22.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PolicyController.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\PolicyController.cs",
-              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\PolicyController.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\PolicyController.cs",
-              "RelativeToolTip": "CamlifeAPI1\\Controllers\\PolicyController.cs",
-              "ViewState": "AgIAAEECAAAAAAAAAAAiwFwCAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T07:41:07.464Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "bl_application_for_issue.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
               "ViewState": "AgIAAMsAAAAAAAAAAAAewNMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -230,11 +180,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "ApplicationFormController.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
+              "ViewState": "AgIAAFUEAAAAAAAAAAAowGMEAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T08:53:22.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "da_micro_application_beneficiary.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwFgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:00:02.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PolicyController.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\PolicyController.cs",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\PolicyController.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\PolicyController.cs",
+              "RelativeToolTip": "CamlifeAPI1\\Controllers\\PolicyController.cs",
+              "ViewState": "AgIAAEECAAAAAAAAAAAiwFwCAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:41:07.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "da_micro_policy_prefix.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -242,11 +229,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "bl_micro_policy.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAIwD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,11 +241,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "bl_micro_application.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
               "ViewState": "AgIAAGIAAAAAAAAAAAAuwA4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -266,11 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "da_micro_product_rate.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -278,23 +265,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "bl_micro_product_config.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs",
               "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs*",
-              "RelativeToolTip": "CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs*",
+              "RelativeToolTip": "..\\..\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs*",
               "ViewState": "AgIAAF0AAAAAAAAAAAAqwGcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-02T12:52:26.636Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "Log.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Log.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Log.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Log.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Log.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Log.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Log.cs",
               "ViewState": "AgIAAKkAAAAAAAAAAAAUwLgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -302,11 +289,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "documents.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Documents\\documents.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Documents\\documents.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Documents\\documents.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Documents\\documents.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Documents\\documents.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Documents\\documents.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHgCAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -314,11 +301,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "da_micro_policy_beneficiary.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_beneficiary.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAwBoAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -326,11 +313,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "DocumentController.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\DocumentController.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\DocumentController.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\DocumentController.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\DocumentController.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\DocumentController.cs",
               "RelativeToolTip": "CamlifeAPI1\\Controllers\\DocumentController.cs",
               "ViewState": "AgIAAPwCAAAAAAAAAAAUwAkDAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -338,11 +325,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "MicroProductController.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\MicroProductController.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\MicroProductController.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\MicroProductController.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\MicroProductController.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\MicroProductController.cs",
               "RelativeToolTip": "CamlifeAPI1\\Controllers\\MicroProductController.cs",
               "ViewState": "AgIAAGwAAAAAAAAAAADwv3cAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -350,11 +337,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "SaleAgentController.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\SaleAgentController.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\SaleAgentController.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\SaleAgentController.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\SaleAgentController.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\SaleAgentController.cs",
               "RelativeToolTip": "CamlifeAPI1\\Controllers\\SaleAgentController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAUwDoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -362,11 +349,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "da_channel.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Channel\\da_channel.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Channel\\da_channel.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Channel\\da_channel.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Channel\\da_channel.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Channel\\da_channel.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Channel\\da_channel.cs",
               "ViewState": "AgIAAO8BAAAAAAAAAAAUwPwBAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -374,11 +361,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "bl_micro_policy_beneficiary.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy_beneficiary.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAIBAwBcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -386,11 +373,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "bl_micro_policy_detail.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy_detail.cs",
               "ViewState": "AgIAAEgAAAAAAAAAAAAywFoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -398,11 +385,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "da_micro_policy_detail.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_detail.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAA1wDMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -410,11 +397,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "CustomerController.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\CustomerController.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\CustomerController.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\CustomerController.cs",
               "RelativeToolTip": "CamlifeAPI1\\Controllers\\CustomerController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAiwBcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -422,11 +409,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "da_master.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Master\\da_master.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Master\\da_master.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Master\\da_master.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Master\\da_master.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Master\\da_master.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Master\\da_master.cs",
               "ViewState": "AgIAACwAAAAAAAAAAAA1wDsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -434,11 +421,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "bl_master.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Master\\bl_master.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Master\\bl_master.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Master\\bl_master.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Master\\bl_master.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Master\\bl_master.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Master\\bl_master.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIAwwAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -446,11 +433,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "da_sale_agent.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\SaleAgent\\da_sale_agent.cs",
               "ViewState": "AgIAAIUBAAAAAAAAAAAewJ4BAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -458,11 +445,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "da_micro_product_config.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Product\\da_micro_product_config.cs",
               "ViewState": "AgIAAC0BAAAAAAAAAAAswDABAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -470,11 +457,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "Inquiries.cs",
-              "DocumentMoniker": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Inquiries.cs",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Inquiries.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Inquiries.cs",
-              "ToolTip": "D:\\SYSTEM\\RAKSMEY\\2_API\\8-API-upload-doc\\CamlifeAPI1\\Class\\Inquiries.cs",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Inquiries.cs",
               "RelativeToolTip": "CamlifeAPI1\\Class\\Inquiries.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAA/wCwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
