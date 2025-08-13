@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\02_Github\\Camlife-API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\controllers\\applicationformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\application\\da_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\da_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|d:\\02_github\\camlife-api\\camlifeapi1\\controllers\\applicationformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\applicationformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|d:\\02_github\\camlife-api\\camlifeapi1\\class\\application\\bl_application_for_issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\application\\bl_application_for_issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\bl_application_for_issue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\controllers\\policycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -45,10 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\application\\bl_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\bl_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\application\\da_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|solutionrelative:camlifeapi1\\class\\application\\da_micro_application_beneficiary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{15AECD57-89E1-49C7-A40B-184BACF28B2C}|CamlifeAPI1\\CamlifeAPI1.csproj|D:\\02_Github\\Camlife-API\\camlifeapi1\\class\\documents\\documents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -125,25 +125,8 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Web.config",
-              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Web.config",
-              "RelativeDocumentMoniker": "CamlifeAPI1\\Web.config",
-              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Web.config",
-              "RelativeToolTip": "CamlifeAPI1\\Web.config",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-07-03T05:41:45.914Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "bl_micro_application_beneficiary.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\bl_micro_application_beneficiary.cs",
@@ -155,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Calculation.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Calculation.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Calculation.cs",
@@ -167,7 +150,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "bl_application_for_issue.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
@@ -175,25 +158,24 @@
               "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\bl_application_for_issue.cs",
               "ViewState": "AgIAAMsAAAAAAAAAAAAewNMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T14:26:47.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T14:26:47.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ApplicationFormController.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
               "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
               "RelativeToolTip": "CamlifeAPI1\\Controllers\\ApplicationFormController.cs",
-              "ViewState": "AgIAAFUEAAAAAAAAAAAowGMEAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAFgEAAAAAAAAAAAowF0EAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-13T08:53:22.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "da_micro_application_beneficiary.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
@@ -201,23 +183,42 @@
               "RelativeToolTip": "CamlifeAPI1\\Class\\Application\\da_micro_application_beneficiary.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAkwFgAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T13:00:02.816Z"
+              "WhenOpened": "2025-07-02T13:00:02.816Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "PolicyController.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\PolicyController.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Controllers\\PolicyController.cs",
               "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Controllers\\PolicyController.cs",
               "RelativeToolTip": "CamlifeAPI1\\Controllers\\PolicyController.cs",
-              "ViewState": "AgIAAEECAAAAAAAAAAAiwFwCAABPAAAAAAAAAA==",
+              "ViewState": "AgIAAJgCAAAAAAAAAAAAAKACAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T07:41:07.464Z"
+              "WhenOpened": "2025-02-11T07:41:07.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Web.config",
+              "RelativeDocumentMoniker": "CamlifeAPI1\\Web.config",
+              "ToolTip": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Web.config",
+              "RelativeToolTip": "CamlifeAPI1\\Web.config",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-03T05:41:45.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "da_micro_policy_prefix.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\da_micro_policy_prefix.cs",
@@ -229,7 +230,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "bl_micro_policy.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Policy\\bl_micro_policy.cs",
@@ -241,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "bl_micro_application.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Application\\bl_micro_application.cs",
@@ -253,7 +254,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "da_micro_product_rate.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Product\\da_micro_product_rate.cs",
@@ -265,7 +266,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "bl_micro_product_config.cs",
               "DocumentMoniker": "D:\\02_Github\\Camlife-API\\CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs",
               "RelativeDocumentMoniker": "CamlifeAPI1\\Class\\Product\\bl_micro_product_config.cs",

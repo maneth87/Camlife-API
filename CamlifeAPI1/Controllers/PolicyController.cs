@@ -672,7 +672,7 @@ namespace CamlifeAPI1.Controllers
                                     polDetail.EFFECTIVE_DATE = effectiveDate;
                                     polDetail.ISSUED_DATE = issueDate;
                                     polDetail.MATURITY_DATE = maturityDate;
-                                    polDetail.EXPIRY_DATE = effectiveDate.AddDays(-1);
+                                    polDetail.EXPIRY_DATE = maturityDate.AddDays(-1);
                                     polDetail.PREMIUM = applicationForIssuePolicy.Insurance.PREMIUM;
                                     polDetail.ANNUAL_PREMIUM = applicationForIssuePolicy.Insurance.ANNUAL_PREMIUM;
                                     polDetail.DISCOUNT_AMOUNT = applicationForIssuePolicy.Insurance.DISCOUNT_AMOUNT;
